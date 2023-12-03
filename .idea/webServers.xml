@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="26114f22-017a-4678-aff7-2df52b4232f7" name="服务器">
+        <fileTransfer accessType="SFTP" host="222.197.200.228" port="1013" sshConfigId="b1f4d328-1d4e-45d0-8008-deffb1695c92" sshConfig="l@222.197.200.228:1013 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="333125c0-f8c8-4859-a88a-6b4ca567a985" name="13号机">
+        <fileTransfer accessType="SFTP" host="222.197.200.228" port="1013" sshConfigId="b1f4d328-1d4e-45d0-8008-deffb1695c92" sshConfig="l@222.197.200.228:1013 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

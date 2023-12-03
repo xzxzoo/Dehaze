@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://a@10.41.24.230:22/home/a/anaconda3/envs/torch1.10/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/a/2022/zs/DDHAZE" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://a@10.41.88.45:22/home/a/miniconda3/envs/ztorch_1.13/bin/python3.9" />
+        <remote-mappings server-id="python@sftp://l@222.197.200.228:1013/home/l/miniconda3/envs/ztorch_1.13/bin/python3.9">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/media/d/zs/DIACMPN" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
