@@ -6,21 +6,23 @@
 ![framework](/figs/1.jpg)
 
 
-## Requirements
+## Installation
+1. Clone the repository.
+    ```bash
+    git clone https://github.com/xzxzoo/Dehaze
+    ```
 
-### Installation
+2. Install PyTorch 1.12.0 and torchvision 0.13.0.
+    ```bash
+    conda install -c pytorch pytorch torchvision
+    ```
 
-```shell
-pip install -r requirements.txt
-```
-
-* requirement:
-
-```
-Python 3.9
-Pytorch 1.12.0 & torchvision 0.13.0
-```
-### Prepare Datasets
+3. Install the other dependencies.
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+## Prepare Datasets
 Download the RESIDE datasets from [here](https://sites.google.com/view/reside-dehaze-datasets)
 
 The final file path should be the same as the following (please check it carefully):
