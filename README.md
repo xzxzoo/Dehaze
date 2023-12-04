@@ -23,7 +23,7 @@
     ```
     
 ## Prepare Datasets
-Download the RESIDE datasets from [here](https://sites.google.com/view/reside-dehaze-datasets)
+Download the RESIDE datasets from [here.](https://sites.google.com/view/reside-dehaze-datasets)
 
 The final file path should be the same as the following (please check it carefully):
 ```
