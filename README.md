@@ -1,5 +1,5 @@
 # Depth Information Assisted Collaborative Mutual Promotion Network for Single Image Dehazing
-[Paper]
+
 
 ## Pipeline
 
